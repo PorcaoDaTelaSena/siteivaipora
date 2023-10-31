@@ -21,3 +21,20 @@ display: flex;
 .texto{
     font-size: x-large;
 }
+
+.fotolago{
+    display: flex;
+    align-items: center;
+    text-align: right;
+}
+
+
+.foto_lago{
+width: 56%;
+}
+
+.texto1{
+    text-align: left;
+
+    font-size: x-large;
+}
